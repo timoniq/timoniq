@@ -1,16 +1,19 @@
-### Hi there 👋
+# About me
 
-<!--
-**timoniq/timoniq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent code doer from Russia. Interested in opensource projects and logic programming.
 
-Here are some ideas to get you started:
+# My stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :snake: practice Python
+* :sparkles: learn C languages
+* :tomato: practice Prolog
+
+I like drawing and neural networking experiences. Stay tuned on my nn devoted website - [timoniq.host](https://timoniq.host/)
+
+* [vbml](https://github.com/timoniq/vbml) - perfect pythonic markup language / parser
+* [tesseradecade org.](https://github.com/tesseradecade) - neural networking oriented organization, head-dev
+
+# Contact me
+
+Email: <code>tesseradecade@mail.ru</code>  
+Telegram: [@timoniq](https://t.me/timoniq)
