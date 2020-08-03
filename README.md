@@ -4,9 +4,10 @@ Independent code doer from Russia. Interested in opensource projects and logic p
 
 # My stack
 
-* :snake: Python
-* :sparkles: C 
-* :tomato: Prolog
+* :snake: Practice Python 
+* :tomato: Learn Prolog
+* :sparkles: Learn C
+* Regexp, git etc
 
 My favourite projects:
 
