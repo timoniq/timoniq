@@ -1,7 +1,3 @@
-# About me
-
-Independent code doer from Russia. Interested in opensource projects and logic programming.
-
 # My stack
 
 * :snake: Practice Python 
