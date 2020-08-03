@@ -4,9 +4,9 @@ Independent code doer from Russia. Interested in opensource projects and logic p
 
 # My stack
 
-* :snake: practice Python
-* :sparkles: learn C languages
-* :tomato: practice Prolog
+* :snake: Python
+* :sparkles: C 
+* :tomato: Prolog
 
 I like drawing and neural networking experiences. Stay tuned on my nn devoted website - [timoniq.host](https://timoniq.host/)
 
