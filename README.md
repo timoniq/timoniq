@@ -8,7 +8,7 @@ Independent code doer from Russia. Interested in opensource projects and logic p
 * :sparkles: C 
 * :tomato: Prolog
 
-I like drawing and neural networking experiences. Stay tuned on my nn devoted website - [timoniq.host](https://timoniq.host/)
+My favourite projects:
 
 * [vbml](https://github.com/timoniq/vbml) - perfect pythonic markup language / parser
 * [tesseradecade org.](https://github.com/tesseradecade) - neural networking oriented organization, head-dev
