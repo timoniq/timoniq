@@ -12,5 +12,5 @@ My favourite projects:
 
 # Contact me
 
-Email: <code>tesseradecade@mail.ru</code>  
+Email: <code>tesseradecades@mail.ru</code>  
 Telegram: [@timoniq](https://t.me/timoniq)
