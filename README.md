@@ -15,8 +15,8 @@
 
 # Contact me
 
-(Officially) Email: <code>tesseradecades@mail.ru</code>  
-(Smalltalk-ily) Telegram: [@timoniq](https://t.me/timoniq)  
+Email: <code>tesseradecades@mail.ru</code>  
+Telegram: [@timoniq](https://t.me/timoniq)  
 (Friendly) Twitter: [@timonyiq](https://twitter.com/timonyiq)
 
 # Support me
