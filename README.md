@@ -14,3 +14,5 @@ My favourite projects:
 
 Email: <code>tesseradecades@mail.ru</code>  
 Telegram: [@timoniq](https://t.me/timoniq)
+
+<img src="https://github-readme-stats.vercel.app/api?username=timoniq&show_icons=true&count_private=true">
