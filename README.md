@@ -11,9 +11,15 @@
 * [**vbml**](https://github.com/timoniq/vbml) - perfect pythonic markup language / parser
 * [**tesseradecade/***](https://github.com/tesseradecade) - neural networking oriented organization
 
-<img src="https://github-readme-stats.vercel.app/api?username=timoniq&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=timoniq&show_icons=true&count_private=true&theme=graywhite">
 
 # Contact me
 
 Email: <code>tesseradecades@mail.ru</code>  
 Telegram: [@timoniq](https://t.me/timoniq)
+
+# Support me
+
+If you want me to spend more time improving opensource projects you are able to send a bunch of money here:
+
+[![Qiwi Moneybox](https://img.shields.io/badge/-Qiwi%20Moneybox-orange?logo=qiwi&logoColor=white&style=for-the-badge)](https://qiwi.me/pirashki) [![Patreon](https://img.shields.io/badge/-Patreon-red?logo=patreon&logoColor=white&style=for-the-badge)](https://patreon.com/timoniq) [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoff.ee/timoniq)
