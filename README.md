@@ -8,7 +8,7 @@
 
 **My favourite projects:**
 
-* [**vbml**](https://github.com/timoniq/vbml) - perfect pythonic markup language / parser
+* [**vbml**](https://github.com/tesseradecade/vbml) - perfect pythonic markup language / parser
 * [**tesseradecade/***](https://github.com/tesseradecade) - neural networking oriented organization
 
 <img src="https://github-readme-stats.vercel.app/api?username=timoniq&show_icons=true&count_private=true&theme=graywhite">
