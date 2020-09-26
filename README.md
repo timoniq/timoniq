@@ -6,8 +6,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat-square)
 ![Regexp-etc](https://img.shields.io/badge/-Regexp%20&%20etc-36993B?logo=awesome-lists&logoColor=white&style=flat-square)
 
-**My favourite projects:**
-
 * [**vbml**](https://github.com/tesseradecade/vbml) - perfect pythonic markup language / parser
 * [**tesseradecade/***](https://github.com/tesseradecade) - neural networking oriented organization
 
