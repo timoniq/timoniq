@@ -25,6 +25,4 @@ Telegram: [@timoniq](https://t.me/timoniq)
 
 <samp>If you want me to spend more time improving opensource projects you are able to send a bunch of money here</samp>
 
----
-
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://gpvc.arturio.dev/timoniq"> 
