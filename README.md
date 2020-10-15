@@ -27,5 +27,4 @@ Telegram: [@timoniq](https://t.me/timoniq)
 
 ---
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-<img src="https://gpvc.arturio.dev/timoniq"> 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://gpvc.arturio.dev/timoniq"> 
