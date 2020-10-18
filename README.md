@@ -24,5 +24,3 @@ Telegram: [@timoniq](https://t.me/timoniq)
 [![Qiwi Moneybox](https://img.shields.io/badge/-Qiwi%20Moneybox-orange?logo=qiwi&logoColor=white&style=for-the-badge)](https://qiwi.me/pirashki) [![Boosty](https://img.shields.io/badge/-Boosty-red?logoColor=white&style=for-the-badge)](https://boosty.to/timoniq)
 
 <samp>If you want me to spend more time improving opensource projects you are able to send a bunch of money here</samp>
-
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://gpvc.arturio.dev/timoniq"> 
