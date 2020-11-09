@@ -14,6 +14,6 @@ Telegram: [@timoniq](https://t.me/timoniq)
 
 # Support me
 
-[![Qiwi Moneybox](https://img.shields.io/badge/-Qiwi%20Moneybox-orange?logo=qiwi&logoColor=white&style=for-the-badge)](https://qiwi.me/pirashki) [![Boosty](https://img.shields.io/badge/-Boosty-red?logoColor=white&style=for-the-badge)](https://boosty.to/timoniq)
+[![Yandex Money](https://img.shields.io/badge/-Yandex%20Money-orange?logo=yandex&logoColor=white&style=for-the-badge)](https://timoniq.host/donate) [![Boosty](https://img.shields.io/badge/-Boosty-red?logoColor=white&style=for-the-badge)](https://boosty.to/timoniq)
 
 <samp>If you want me to spend more time improving opensource projects you are able to send a bunch of money here</samp>
