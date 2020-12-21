@@ -1,11 +1,7 @@
-# My stack
-
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Prolog](https://img.shields.io/badge/-Prolog-5F0040?logo=product-hunt&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C%20Language-lightgrey?logo=c&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat-square)
-
-<img src="https://github-readme-stats.vercel.app/api?username=timoniq&show_icons=true&count_private=true&theme=graywhite">
 
 # Contact me
 
