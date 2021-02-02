@@ -3,6 +3,8 @@
 ![C](https://img.shields.io/badge/-C%20Language-lightgrey?logo=c&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat-square)
 
+Currently working on future opensource, feel free to contribute
+
 # Contact me
 
 Email: <code>tesseradecades@mail.ru</code>  
