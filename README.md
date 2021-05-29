@@ -1,7 +1,7 @@
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
-![Rust](https://img.shields.io/badge/-Rust-d19675?style=flat-square&logo=rust&logoColor=white)
-![Prolog](https://img.shields.io/badge/-Prolog-5F0040?logo=product-hunt&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/-C-lightgrey?logo=c&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-black?logo=product-hunt&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-black?logo=c&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat-square)
 
 # Contact me
